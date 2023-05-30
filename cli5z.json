@@ -1,7 +1,5 @@
-{ "cli5zget": { " pagegetcli5zList ": [ 
+{ "cli5zget": { "pagegetcli5zList": [ 
 { "pagegetcli5z": { "link": "https://getmyghar.com/properties/dtc-rajarhat ",  "title": " Dtc Rajarhat "} },
 { "pagegetcli5z": { "link": "https://getmyghar.com/properties/southwinds ",  "title": " southwinds "} },
-{ "pagegetcli5z": { "link": "https://getmyghar.com/properties/urban-greens ",  "title": " Urban Greens "} },
-{ "pagegetcli5z": { "link": "https://getmyghar.com/properties/dtc-southern-heights ",  "title": " Dtc Southern Heights "} },
 { "pagegetcli5z": { "link": "https://getmyghar.com/properties/ps-vaanya ",  "title": " PS Vaanya "} }
-] } } 
+] } }
