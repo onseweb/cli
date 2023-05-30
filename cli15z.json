@@ -1,5 +1,5 @@
-{ "cli15kget": { "pagegetcli15kList": [ 
-{ "pagegetcli15k": { "link": "https://getmyghar.com/properties/dtc-rajarhat ",  "title": " Dtc Rajarhat "} },
-{ "pagegetcli15k": { "link": "https://getmyghar.com/properties/southwinds ",  "title": " southwinds "} },
-{ "pagegetcli15k": { "link": "https://getmyghar.com/properties/ps-vaanya ",  "title": " PS Vaanya "} }
+{ "cli15zget": { "pagegetcli15zList": [ 
+{ "pagegetcli15z": { "link": "https://getmyghar.com/properties/dtc-rajarhat ",  "title": " Dtc Rajarhat "} },
+{ "pagegetcli15z": { "link": "https://getmyghar.com/properties/southwinds ",  "title": " southwinds "} },
+{ "pagegetcli15z": { "link": "https://getmyghar.com/properties/ps-vaanya ",  "title": " PS Vaanya "} }
 ] } }
