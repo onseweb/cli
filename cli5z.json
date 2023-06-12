@@ -1,6 +1,5 @@
 { "cli5zget": { "pagegetcli5zList": [ 
 { "pagegetcli5z": { "link": "https://getmyghar.com/properties/dtc-rajarhat ",  "title": " Dtc Rajarhat "} },
-{ "pagegetcli5z": { "link": "https://getmyghar.com/properties/dtc-rajarhat ",  "title": " DTC Capital City "} },
 { "pagegetcli5z": { "link": "https://getmyghar.com/properties/urban-vista ",  "title": " Urban Vista "} },
 { "pagegetcli5z": { "link": "https://getmyghar.com/properties/urban-greens ",  "title": " Urban Greens "} },
 { "pagegetcli5z": { "link": "https://getmyghar.com/properties/rishi-pranaya ",  "title": " Rishi Pranaya "} },
@@ -19,6 +18,7 @@
 { "pagegetcli5z": { "link": "https://getmyghar.com/properties/sugam-habitat ",  "title": " sugam habitat "} },
 { "pagegetcli5z": { "link": "https://getmyghar.com/properties/merlin-avana ",  "title": " Avana "} },
 { "pagegetcli5z": { "link": "https://getmyghar.com/properties/emami-aastha ",  "title": " Emami Astha "} },
+{ "pagegetcli5z": { "link": "https://getmyghar.com/properties/dtc-rajarhat ",  "title": " DTC Capital City "} },
 { "pagegetcli5z": { "link": "https://getmyghar.com/properties/dtc-southern-heights ",  "title": " DTC Southern Heights "} },
 { "pagegetcli5z": { "link": "https://getmyghar.com/properties/orchard-godrej-seven ",  "title": " Godrej 7 "} }
 ] } }
